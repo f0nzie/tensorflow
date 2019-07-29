@@ -1,21 +1,9 @@
 Package: tensorflow
 Type: Package
 Title: R Interface to 'TensorFlow'
-Version: 1.13.1.9000
+Version: 1.13.1.9777
 Authors@R: c(
-  person("Daniel", "Falbel", role = c("ctb", "cph", "cre"), email = "daniel@rstudio.com"),
-  person("JJ", "Allaire", role = c("aut", "cph")),
-  person(family = "RStudio", role = c("cph", "fnd")),
-  person("Yuan", "Tang", role = c("aut", "cph"),
-         email = "terrytangyuan@gmail.com",
-         comment = c(ORCID = "0000-0001-5243-233X")),
-  person("Dirk", "Eddelbuettel", role = c("ctb", "cph"),
-         email = "edd@debian.org"),
-  person("Nick", "Golding", role = c("ctb", "cph"),
-         email = "nick.golding.research@gmail.com"),
-  person("Tomasz", "Kalinowski", role = c("ctb", "cph")),
-  person(family = "Google Inc.", role = c("ctb", "cph"),
-         comment = "Examples and Tutorials")
+  person("Alfonso", "Reyes", role = c("ctb", "cph", "cre"), email = "alfonso.reyes@oilgainsanalytics.com")
   )
 Description: Interface to 'TensorFlow' <https://www.tensorflow.org/>, 
   an open source software library for numerical computation using data
