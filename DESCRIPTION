@@ -1,4 +1,4 @@
-Package: tensortorch
+Package: tensorflow
 Type: Package
 Title: R Interface to 'TensorFlow'. Test for rTorch.
 Version: 1.13.1.9779
