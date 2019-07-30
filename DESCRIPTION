@@ -1,7 +1,7 @@
 Package: tensorflow
 Type: Package
 Title: R Interface to 'TensorFlow'. Test for rTorch.
-Version: 1.13.1.9780
+Version: 1.13.1.9781
 Authors@R: c(
   person("Alfonso", "Reyes", role = c("ctb", "cph", "cre"), email = "alfonso.reyes@oilgainsanalytics.com")
   )
@@ -18,8 +18,8 @@ Description: Interface to 'TensorFlow' <https://www.tensorflow.org/>,
   but the system is general enough to be applicable in a wide variety
   of other domains as well.
 License: Apache License 2.0
-URL: https://github.com/rstudio/tensorflow
-BugReports: https://github.com/rstudio/tensorflow/issues
+URL: https://github.com/f0nzie/tensorflow
+BugReports: https://github.com/f0nzie/tensorflow/issues
 SystemRequirements: TensorFlow (https://www.tensorflow.org/)
 Encoding: UTF-8
 LazyData: true
